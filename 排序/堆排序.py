@@ -2,6 +2,12 @@
 '''
 Descri：https://www.jianshu.com/p/801318c77ab5
 '''
+
+'''
+一种著名的数据结构是堆（heap），它是一种优先队列。优先队列让你能够以
+任意顺序添加对象，并随时（可能是在两次添加对象之间）找出（并删除）最小
+的元素。相比于列表方法min，这样做的效率要高得多。
+'''
 import heapq
 from pprint import pprint
 portfolio = [
