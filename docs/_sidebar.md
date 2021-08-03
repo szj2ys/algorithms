@@ -1,6 +1,6 @@
 
-- 数据结构
-    - [数组](data_structure/数组.md)
+- [数据结构](data_structures/README.md)
+    - [数组](data_structures/数组.md)
 
 - [算法](algorithms/README.md)
     - [排序](algorithms/sorts/README.md)
