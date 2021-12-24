@@ -16,6 +16,7 @@ class Solution:
 
         return dfs(l1, l2, 0)
 
+if __name__ == '__main__':
 
 
 '''
